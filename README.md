@@ -2,8 +2,9 @@
 - 🎓 I'm a Computer Science Engineering Student.
 - 👀 I’m interested in Web Development , Android Development and Game Development .
 - 🌱 I’m currently learning Full Stack Web Development.
-- 📫 How to reach me ([Linkedin](https://www.linkedin.com/in/ayushgupta-/)) , ([Gmail](ayushgupta141001@gmail.com))
+- 📫 How to reach me ([Linkedin](https://www.linkedin.com/in/ayushgupta-/))
 - 🔗 Here's my ([Portfolio](https://ayush-gupta-01.github.io/portfolio/)) 
+- Feel free to contact me 😊.
 
 <!---
 ayush-gupta-01/ayush-gupta-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
