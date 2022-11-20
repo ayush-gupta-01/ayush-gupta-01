@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayush Gupta.
 - 🎓 I'm a Computer Science Engineering Student.
 - 👀 I’m interested in Web Development , Android Development and Game Development .
-- 🌱 I’m currently learning Full Stack Web Development.
+- 🌱 I’m currently learning and working on Full Stack Web Development.
 - 📫 How to reach me ([Linkedin](https://www.linkedin.com/in/ayushgupta-/))
 - 🔗 Here's my ([Portfolio](https://ayush-gupta-01.github.io/portfolio/)) 
 - Feel free to contact me 😊.
